@@ -1,7 +1,11 @@
 # tulasi.Noir
 ### Deeper Blacks. Sharper Contours. Pure Focus.
 
+
+
 <img width="4860" height="1424" alt="TulasiNoir" src="https://github.com/user-attachments/assets/4f1f5d91-c21a-4e1e-828e-63f7fe2704ee" />
+
+
 
 
 Wherever I go, the desktop follows. And out there in the default icon world, everything is shouting for attention. Saturated gradients, loud brand colors, visual clutter everywhere. 
@@ -16,11 +20,26 @@ Built specifically for OLED screens, deep dark mode setups, minimalist tiling wi
 
 ## Growing Beside Tulasi
 
+
+
+
+<img width="4860" height="1424" alt="Subheading" src="https://github.com/user-attachments/assets/40cdf233-f52c-44e5-bb9b-ca4ad2c3d207" />
+
+
 Noir is not a forgotten side fork. It is an official sibling. Every time Tulasi gets new apps, Noir gets them too, forged in monochrome.
 
 Right now, **Tulasi.Noir is in Beta**. if the community shows that you want this detective living permanently in your taskbar, it will officially graduate from Beta into full Release 01 with expanded system glyphs and extra ricing configs./
 
+
+
+
+
+
 ---
+
+
+
+
 ## The Creator & Supporting the Project
 
 <img width="4860" height="1253" alt="Support Tulasi" src="https://github.com/user-attachments/assets/41602d7f-d4ba-4cc3-af09-33e5545092c0" />

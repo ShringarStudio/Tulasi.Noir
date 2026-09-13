@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg viewBox="0 0 32 32" version="1.1" width="512" height="512" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <path fill="#060606" d="M3 21h1v2h-1z M28 21h1v2h-1z M4 22h1v3h-1z M27 22h1v3h-1z M5 24h1v2h-1z M26 24h1v2h-1z M6 25h1v2h-1z M25 25h1v2h-1z M7 26h18v1h-18z" />
+  <path fill="#0A0A0A" d="M7 11h3v1h-3z M22 11h3v1h-3z M6 12h1v3h-1z M8 12h3v3h-3z M21 12h1v3h-1z M23 12h3v3h-3z M7 13h1v3h-1z M22 13h1v3h-1z M8 15h2v1h-2z M23 15h2v1h-2z" />
+  <path fill="#111111" d="M8 1h16v2h-16z M6 2h2v3h-2z M24 2h2v3h-2z M4 3h2v3h-2z M8 3h6v1h-6z M19 3h5v1h-5z M26 3h2v3h-2z M3 4h1v4h-1z M8 4h2v1h-2z M22 4h2v1h-2z M28 4h1v4h-1z M2 5h1v21h-1z M6 5h1v1h-1z M25 5h1v1h-1z M29 5h1v21h-1z M4 6h1v1h-1z M27 6h1v1h-1z M1 7h1v17h-1z M30 7h1v17h-1z M3 23h1v4h-1z M28 23h1v4h-1z M4 25h1v4h-1z M27 25h1v3h-1z M5 26h1v3h-1z M26 26h1v3h-1z M6 27h20v3h-20z M8 30h16v1h-16z" />
+  <path fill="#5B5B5B" d="M8 22h7v1h-7z M18 22h7v1h-7z" />
+  <path fill="#727272" d="M4 21h5v1h-5z M14 21h5v1h-5z M24 21h4v1h-4z" />
+  <path fill="#7A7A7A" d="M7 12h1v1h-1z M22 12h1v1h-1z" />
+  <path fill="#8B8B8B" d="M15 4h3v12h-3z M11 5h4v7h-4z M18 5h3v7h-3z M8 6h3v4h-3z M21 6h3v4h-3z M6 7h2v3h-2z M24 7h2v3h-2z M5 8h1v4h-1z M26 8h1v4h-1z M4 9h1v12h-1z M27 9h1v12h-1z M6 10h1v1h-1z M10 10h1v1h-1z M21 10h1v1h-1z M25 10h1v1h-1z M12 12h3v9h-3z M18 12h2v9h-2z M5 15h1v6h-1z M11 15h1v7h-1z M20 15h1v7h-1z M26 15h1v6h-1z M6 16h1v5h-1z M10 16h1v6h-1z M17 16h1v5h-1z M21 16h1v6h-1z M25 16h1v5h-1z M7 17h3v4h-3z M22 17h3v4h-3z M15 18h2v3h-2z M9 21h1v1h-1z M12 21h2v1h-2z M19 21h1v1h-1z M22 21h2v1h-2z M5 22h3v2h-3z M15 22h3v4h-3z M25 22h2v2h-2z M8 23h7v3h-7z M18 23h7v3h-7z M6 24h2v1h-2z M25 24h1v1h-1z M7 25h1v1h-1z" />
+  <path fill="#9C9C9C" d="M14 3h5v1h-5z M10 4h5v1h-5z M18 4h4v1h-4z M7 5h4v1h-4z M21 5h4v1h-4z M5 6h3v1h-3z M24 6h3v1h-3z M4 7h2v1h-2z M26 7h2v1h-2z M3 8h2v1h-2z M27 8h2v1h-2z M3 9h1v12h-1z M28 9h1v12h-1z" />
+  <path fill="#B1B1B1" d="M15 17h2v1h-2z" />
+  <path fill="#C6C6C6" d="M15 16h2v1h-2z" />
+  <path fill="#FFFFFF" d="M7 10h3v1h-3z M22 10h3v1h-3z M6 11h1v1h-1z M10 11h1v1h-1z M21 11h1v1h-1z M25 11h1v1h-1z M5 12h1v3h-1z M11 12h1v3h-1z M20 12h1v3h-1z M26 12h1v3h-1z M6 15h1v1h-1z M10 15h1v1h-1z M21 15h1v1h-1z M25 15h1v1h-1z M7 16h3v1h-3z M22 16h3v1h-3z" />
+</svg>

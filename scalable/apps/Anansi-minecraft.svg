@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg viewBox="0 0 32 32" version="1.1" width="512" height="512" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <path fill="#0F0F0F" d="M8 9h6v5h-6z M19 9h5v5h-5z M14 15h5v8h-5z M11 17h3v8h-3z M19 17h3v8h-3z" />
+  <path fill="#191919" d="M30 8h1v16h-1z M29 23h1v3h-1z M28 25h1v2h-1z M27 26h1v2h-1z M26 27h1v2h-1z M25 28h1v2h-1z M24 29h1v2h-1z M8 30h16v1h-16z" />
+  <path fill="#212121" d="M8 8h6v1h-6z M19 8h5v1h-5z M24 9h1v5h-1z" />
+  <path fill="#292929" d="M14 14h5v1h-5z" />
+  <path fill="#585858" d="M9 2h17v6h-17z M7 3h2v5h-2z M26 3h1v24h-1z M6 4h1v26h-1z M27 4h1v22h-1z M5 5h1v24h-1z M28 5h1v20h-1z M4 6h1v22h-1z M29 6h1v17h-1z M3 7h1v20h-1z M7 8h1v22h-1z M14 8h5v6h-5z M24 8h2v1h-2z M2 9h1v17h-1z M25 9h1v19h-1z M8 15h6v2h-6z M19 15h6v2h-6z M8 17h3v13h-3z M22 17h3v12h-3z M14 23h5v7h-5z M11 26h3v4h-3z M19 26h3v4h-3z M22 29h2v1h-2z" />
+  <path fill="#727272" d="M8 14h6v1h-6z M19 14h6v1h-6z M11 25h3v1h-3z M19 25h3v1h-3z" />
+  <path fill="#A9A9A9" d="M8 1h16v1h-16z M6 2h3v1h-3z M5 3h2v1h-2z M4 4h2v1h-2z M3 5h2v1h-2z M2 6h2v1h-2z M2 7h1v2h-1z M1 8h1v16h-1z" />
+</svg>

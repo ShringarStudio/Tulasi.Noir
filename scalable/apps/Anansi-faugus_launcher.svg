@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg viewBox="0 0 32 32" version="1.1" width="512" height="512" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <path fill="#010101" d="M7 1h18v1h-18z M5 2h3v1h-3z M24 2h3v1h-3z M4 3h2v1h-2z M26 3h2v1h-2z M3 4h2v1h-2z M27 4h2v1h-2z M2 5h2v1h-2z M28 5h2v1h-2z M2 6h1v2h-1z M29 6h1v2h-1z M1 7h1v18h-1z M30 7h1v18h-1z M2 24h1v3h-1z M29 24h1v3h-1z M3 26h1v2h-1z M28 26h1v2h-1z M4 27h1v2h-1z M27 27h1v2h-1z M5 28h1v2h-1z M26 28h1v2h-1z M6 29h2v1h-2z M24 29h2v1h-2z M7 30h18v1h-18z" />
+  <path fill="#262626" d="M8 11h2v10h-2z M7 12h1v8h-1z M10 12h1v8h-1z M5 14h2v4h-2z M11 14h2v4h-2z M4 15h1v2h-1z M13 15h1v2h-1z" />
+  <path fill="#616161" d="M14 24h1v1h-1z M19 24h1v1h-1z M13 25h1v1h-1z M18 25h1v1h-1z" />
+  <path fill="#626262" d="M25 14h2v4h-2z M24 15h1v2h-1z M27 15h1v2h-1z" />
+  <path fill="#666666" d="M21 11h2v4h-2z M20 12h1v2h-1z M23 12h1v2h-1z" />
+  <path fill="#6B6B6B" d="M21 17h2v4h-2z M20 18h1v2h-1z M23 18h1v2h-1z" />
+  <path fill="#BFBFBF" d="M17 14h2v4h-2z M16 15h1v2h-1z M19 15h1v2h-1z" />
+  <path fill="#DFDFDF" d="M8 2h16v1h-16z M6 3h3v1h-3z M23 3h3v1h-3z M5 4h2v1h-2z M25 4h2v1h-2z M4 5h2v1h-2z M26 5h2v1h-2z M3 6h2v1h-2z M27 6h2v1h-2z M3 7h1v2h-1z M28 7h1v2h-1z M2 8h1v16h-1z M29 8h1v16h-1z M3 23h1v3h-1z M28 23h1v3h-1z M4 25h1v2h-1z M27 25h1v2h-1z M5 26h1v2h-1z M26 26h1v2h-1z M6 27h1v2h-1z M25 27h1v2h-1z M7 28h2v1h-2z M23 28h2v1h-2z M8 29h16v1h-16z" />
+  <path fill="#F5F5F5" d="M9 3h14v8h-14z M7 4h2v7h-2z M23 4h2v8h-2z M6 5h1v9h-1z M25 5h1v9h-1z M5 6h1v8h-1z M26 6h1v8h-1z M4 7h1v8h-1z M27 7h1v8h-1z M3 9h1v14h-1z M28 9h1v14h-1z M7 11h1v1h-1z M10 11h11v1h-11z M11 12h9v2h-9z M24 12h1v3h-1z M13 14h4v1h-4z M19 14h2v1h-2z M23 14h1v4h-1z M14 15h2v9h-2z M20 15h3v2h-3z M4 17h1v8h-1z M13 17h1v8h-1z M16 17h1v12h-1z M19 17h2v1h-2z M24 17h1v11h-1z M27 17h1v8h-1z M5 18h2v8h-2z M11 18h2v11h-2z M17 18h3v6h-3z M25 18h2v8h-2z M7 20h1v8h-1z M10 20h1v9h-1z M20 20h1v9h-1z M23 20h1v8h-1z M8 21h2v7h-2z M21 21h2v8h-2z M15 24h1v5h-1z M17 24h2v1h-2z M14 25h1v4h-1z M17 25h1v4h-1z M19 25h1v4h-1z M6 26h1v1h-1z M13 26h1v3h-1z M18 26h1v3h-1z M25 26h1v1h-1z M9 28h1v1h-1z" />
+</svg>

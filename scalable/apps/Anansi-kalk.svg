@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg viewBox="0 0 32 32" version="1.1" width="512" height="512" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <path fill="#000000" d="M18 14h5v1h-5z M18 17h5v1h-5z" />
+  <path fill="#1F1F1F" d="M8 7h1v5h-1z M6 9h2v1h-2z M9 9h2v1h-2z M6 21h5v1h-5z" />
+  <path fill="#4D4D4D" d="M26 7h1v18h-1z M25 24h1v2h-1z M24 25h1v2h-1z M17 26h7v1h-7z" />
+  <path fill="#A4A4A4" d="M18 6h7v8h-7z M17 7h1v19h-1z M25 7h1v17h-1z M16 8h1v17h-1z M23 14h2v11h-2z M18 15h5v2h-5z M18 18h5v8h-5z M23 25h1v1h-1z" />
+  <path fill="#B6B6B6" d="M30 8h1v16h-1z M29 23h1v3h-1z M28 25h1v2h-1z M27 26h1v2h-1z M26 27h1v2h-1z M25 28h1v2h-1z M23 29h2v1h-2z M8 30h16v1h-16z" />
+  <path fill="#C8C8C8" d="M20 5h4v1h-4z M15 10h1v14h-1z" />
+  <path fill="#DEDEDE" d="M13 8h1v4h-1z M12 11h1v2h-1z M11 12h1v2h-1z M10 13h1v2h-1z M7 14h3v1h-3z M13 20h1v4h-1z M12 23h1v2h-1z M11 24h1v2h-1z M10 25h1v2h-1z M7 26h3v1h-3z" />
+  <path fill="#E7E7E7" d="M17 5h3v1h-3z M16 6h2v1h-2z M15 7h2v1h-2z M15 8h1v2h-1z" />
+  <path fill="#E9E9E9" d="M9 2h17v3h-17z M7 3h2v2h-2z M26 3h1v4h-1z M5 4h2v2h-2z M27 4h1v22h-1z M4 5h1v3h-1z M10 5h7v1h-7z M24 5h2v1h-2z M28 5h1v20h-1z M3 6h1v21h-1z M5 6h1v1h-1z M11 6h5v1h-5z M25 6h1v1h-1z M29 6h1v17h-1z M12 7h3v1h-3z M2 8h1v18h-1z M14 8h1v22h-1z M4 11h1v9h-1z M5 12h1v7h-1z M13 12h1v8h-1z M6 13h1v5h-1z M12 13h1v7h-1z M11 14h1v5h-1z M7 15h4v2h-4z M10 17h1v1h-1z M4 23h1v5h-1z M5 24h1v5h-1z M13 24h1v6h-1z M15 24h1v6h-1z M6 25h1v5h-1z M12 25h1v5h-1z M16 25h1v5h-1z M26 25h1v2h-1z M11 26h1v4h-1z M25 26h1v2h-1z M7 27h4v3h-4z M17 27h8v2h-8z M17 29h6v1h-6z" />
+  <path fill="#FCFCFC" d="M7 5h3v2h-3z M6 6h1v3h-1z M10 6h1v3h-1z M5 7h1v5h-1z M7 7h1v2h-1z M9 7h1v2h-1z M11 7h1v5h-1z M4 8h1v3h-1z M12 8h1v3h-1z M6 10h2v3h-2z M9 10h2v3h-2z M8 12h1v2h-1z M7 13h1v1h-1z M9 13h1v1h-1z M7 17h3v4h-3z M6 18h1v3h-1z M10 18h1v3h-1z M5 19h1v5h-1z M11 19h1v5h-1z M4 20h1v3h-1z M12 20h1v3h-1z M6 22h5v3h-5z M7 25h3v1h-3z" />
+  <path fill="#FDFDFD" d="M8 1h16v1h-16z M6 2h3v1h-3z M4 3h3v1h-3z M3 4h2v1h-2z M2 5h2v1h-2z M2 6h1v2h-1z M1 7h1v17h-1z" />
+</svg>

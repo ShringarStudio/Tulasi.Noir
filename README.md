@@ -12,7 +12,7 @@ Wherever I go, the desktop follows. And out there in the default icon world, eve
 
 So I took Tulasi, pulled down the fedora, and cut out the noise.
 
-**tulasi.Noir** is the monochromatic alter ego of [Tulasi](https://github.com/ShringarStudio/Tulasi). Every single icon is handcrafted pixel by pixel on a 32x32 grid in Aseprite, stripped of bright distractions, and carved into high-contrast monochrome. 
+**Tulasi.Noir** is the monochromatic alter ego of [Tulasi](https://github.com/ShringarStudio/Tulasi). Every single icon is handcrafted pixel by pixel on a 32x32 grid in Aseprite, stripped of bright distractions, and carved into high-contrast monochrome. 
 
 Built specifically for OLED screens, deep dark mode setups, minimalist tiling window managers (Hyprland, Sway, i3, bspwm), and clean KDE Plasma or GNOME desktop rices. If you are looking for the best monochrome Linux icon theme, a true black and white pixel art icon pack, or a grayscale theme that does not look like washed-out gray mush, welcome to the shadows.
 
@@ -48,7 +48,7 @@ Right now, **Tulasi.Noir is in Beta**. if the community shows that you want this
 
 That being said. I am Lee, being 19 and broke financially. the last few months were uncertain and that struggle nearly killed this project.
 
-If tulasi.Noir makes your setup look cleaner and you have the financial means to support my work, via gumroad (soon) or reach out to me for commisions and hire on instagram @alken.by.
+If Tulasi.Noir makes your setup look cleaner and you have the financial means to support my work, via gumroad (soon) or reach out to me for commisions and hire on instagram @alken.by.
 
 Every single contribution helps keep my lights on and gives me time to keep drawing icons. If you cannot afford to donate, starring this repo and sharing it with the Linux customization community means the world to me.
 
@@ -74,7 +74,7 @@ Noir covers over 150 master applications out of the box with over 1,000 desktop 
 
 1. Download the latest archive or clone the repo:
    ```bash
-   git clone https://github.com/ShringarStudio/tulasi.noir.git ~/.local/share/icons/tulasi.Noir
+   git clone https://github.com/ShringarStudio/tulasi.noir.git ~/.local/share/icons/Tulasi.Noir
    ```
 2. Update the icon cache:
    ```bash
@@ -83,11 +83,11 @@ Noir covers over 150 master applications out of the box with over 1,000 desktop 
 
 ### Applying in KDE Plasma
 1. Open **System Settings → Appearance → Icons**.
-2. Select **tulasi.Noir** (or **Tulasi-Monochromatic**) from the list and hit Apply.
+2. Select **Tulasi.Noir** from the list and hit Apply.
 
 ### Applying in GNOME
 1. Open **GNOME Tweaks** (`flatpak install flathub org.gnome.tweaks`).
-2. Navigate to **Appearance → Icons** and pick **tulasi.Noir**.
+2. Navigate to **Appearance → Icons** and pick **Tulasi.Noir**.
 
 ---
 

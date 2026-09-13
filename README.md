@@ -1,4 +1,4 @@
-# tulasi.Noir
+# Tulasi.Noir By ShringarStudio
 ### Deeper Blacks. Sharper Contours. Pure Focus.
 
 

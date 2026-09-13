@@ -18,7 +18,20 @@ Built specifically for OLED screens, deep dark mode setups, minimalist tiling wi
 
 Noir is not a forgotten side fork. It is an official sibling. Every time Tulasi gets new apps, Noir gets them too, forged in monochrome.
 
-Right now, **tulasi.Noir is in Beta**. if the community shows that you want this detective living permanently in your taskbar, it will officially graduate from Beta into full Release 01 with expanded system glyphs and extra ricing configs./
+Right now, **Tulasi.Noir is in Beta**. if the community shows that you want this detective living permanently in your taskbar, it will officially graduate from Beta into full Release 01 with expanded system glyphs and extra ricing configs./
+
+---
+## The Creator & Supporting the Project
+
+<img width="4860" height="1253" alt="Support Tulasi" src="https://github.com/user-attachments/assets/41602d7f-d4ba-4cc3-af09-33e5545092c0" />
+
+**Tulasi** and **Tulasi.Noir** are free and opensourced allowing to be built and tweaked upon by the community. They are free today, and they will stay free forever.
+
+That being said. I am Lee, being 19 and broke financially. the last few months were uncertain and that struggle nearly killed this project.
+
+If tulasi.Noir makes your setup look cleaner and you have the financial means to support my work, via gumroad (soon) or reach out to me for commisions and hire on instagram @alken.by.
+
+Every single contribution helps keep my lights on and gives me time to keep drawing icons. If you cannot afford to donate, starring this repo and sharing it with the Linux customization community means the world to me.
 
 ---
 
@@ -65,20 +78,6 @@ Need an app cloaked in noir?
 1. Open an issue on GitHub.
 2. Include the application name and desktop icon identifier (`grep "^Icon=" /usr/share/applications/<app>.desktop`).
 3. Note your package type (native repo, Flatpak, or Snap).
-
----
-
-## The Creator & Supporting the Project
-
-<img width="4860" height="1253" alt="Support Tulasi" src="https://github.com/user-attachments/assets/41602d7f-d4ba-4cc3-af09-33e5545092c0" />
-
-Tulasi and Tulasi.Noir are free and opensource for anyone to use and continue to be built upon. They are free today, and they will stay free forever.
-
-I am Lee, an independent visual product designer. being 19 and broke financially. the last few months were uncertain. That struggle almost killed this project and tulasi, but seeing the Linux community keep Tulasi alive pulled me back.
-
-If tulasi.Noir makes your setup look cleaner and you have the financial means to support my work, via gumroad (soon) or reach out to me for commisions and hire on instagram @alken.by.
-
-Every single contribution helps keep my lights on and gives me time to keep drawing icons. If you cannot afford to donate, starring this repo and sharing it with the Linux customization community means the world to me.
 
 ---
 
